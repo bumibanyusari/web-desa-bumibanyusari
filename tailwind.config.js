@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'main-image': "url('/src/assets/main.jpg')",
+        'main-image': "url('assets/main.jpg')",
       },
       boxShadow: {
         quotes: '  21px 21px 33px #c7c7c7,-21px -21px 33px #f9f9f9; ',
